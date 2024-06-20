@@ -1,3 +1,4 @@
 #!/bin/bash
 
-ech "ALL VARIABLES: $@"
+echo "ALL VARIABLES: $@"
+
