@@ -9,3 +9,5 @@ echo "first movie is: ${MOVIES[@]}"
 
 
 
+
+
