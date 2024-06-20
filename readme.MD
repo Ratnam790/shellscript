@@ -8,3 +8,8 @@
    * commit the changes
     git commit -m "why-you-commit"  [-m for message] 
    * push the changes to github/central repo
+
+   git add . [to add all the files]
+   git commit -m "message"
+   git push -u origin master
+   
